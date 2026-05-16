@@ -295,21 +295,6 @@ WSC-R/
 | **Kanishk Choubey** | Dept. of Cyber Security & IoT, SATI Vidisha |
 | **Vansh Namdev** | Dept. of Cyber Security & IoT, SATI Vidisha |
 
-*Faculty advisor: Prof. Nimisha Bhandari*
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
-## 🙏 Acknowledgements
-
-- Department of Cyber Security & IoT, Samrat Ashok Technological Institute, Vidisha, for laboratory infrastructure and field-testing facilities.
-- STMicroelectronics for the VL53L0X datasheet and application notes.
-- The MicroPython community.
 
 ---
 
